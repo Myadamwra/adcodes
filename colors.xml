@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default colors -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Background colors used in options, context, and dialog -->
+    <color name="blue">#64B5F6</color>      <!-- Used in Popup Dialog -->
+    <color name="green">#81C784</color>     <!-- Used in Options Menu -->
+    <color name="red">#EF9A9A</color>       <!-- Used in Options Menu -->
+<color name="purple">#CE93D8</color>            <!-- Used in Context Menu -->
+
+</resources>
